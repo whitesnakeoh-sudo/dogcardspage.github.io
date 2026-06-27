@@ -374,13 +374,15 @@ Step 5 → You're invisible going forward — still usable, zero data stored
 
 **Join the Official Dog Cards Discord Server → open a ticket in `#support`**
 
+🔗 **[discord.gg/m36rqcjV4m](https://discord.gg/m36rqcjV4m)**
+
 *For privacy-specific questions, just say* **"Privacy Inquiry"** *in your ticket.*
 
 We're real people who care about our community — friendly, honest, and responsive. 🐾
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-Open_a_Support_Ticket-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-Open_a_Support_Ticket-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m36rqcjV4m)
 
 </div>
 
